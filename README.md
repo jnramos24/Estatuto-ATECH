@@ -16,6 +16,7 @@ ATECh es el sindicato de los trabajadores de la educación de la provincia del C
 
 | N° | Capítulo | Contenido principal |
 |----|----------|-------------------|
+| 📖 | [Glosario de Términos](capitulos/glosario.md) | Definiciones de términos técnicos y sindicales |
 | — | [Declaración de Principios](capitulos/00-declaracion-principios.md) | Filosofía y valores del sindicato |
 | I | [Nombre, Constitución y Jurisdicción](capitulos/01-nombre-constitucion-jurisdiccion.md) | Qué es ATECh, quiénes pueden afiliarse y para qué existe |
 | II | [De los Asociados](capitulos/02-asociados.md) | Cómo afiliarse, tipos de afiliados, derechos y deberes |
